@@ -18,6 +18,8 @@ Design strategy and Implentation details involve:
 4) ERROR HANDLING
 
 Working Example:
-
+<p>
+  <img src="ex1.PNG" wight="600" height="600">
+</p>
 
 
