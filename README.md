@@ -8,6 +8,7 @@ Implemented a mini C++ compiler with the for the major constructs like:
 4) else-if clauses
 5) for loops
 6) while loops
+
 This Mini-Compiler performs syntax analysis to verify if the sequence of tokens in the input forms a valid sentence based on the definition of the C++ grammar provided in the yacc file. It checks for the semantic validity of the given input. Appropriate rules are written to validate type checking, to ensure that all variables are declared before use and to catch any variable redeclarations. It also catches any bracket mismatch and correctly records the scope of each variable.
 
 Design strategy and Implentation details involve:
